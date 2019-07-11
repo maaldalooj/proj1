@@ -1,0 +1,11 @@
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.1\EmployeeDetails.deps.json
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.1\EmployeeDetails.runtimeconfig.json
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.1\EmployeeDetails.runtimeconfig.dev.json
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.1\EmployeeDetails.dll
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.1\EmployeeDetails.pdb
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.csprojAssemblyReference.cache
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.AssemblyInfoInputs.cache
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.AssemblyInfo.cs
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.dll
+C:\Users\malep\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.1\EmployeeDetails.pdb
